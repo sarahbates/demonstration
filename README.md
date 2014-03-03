@@ -1,4 +1,6 @@
 demonstration
 =============
 
-demonstrating how to upload code and push to web pages on GitHub
+demonstrating how to share coding
+
+Live demo at http://sarahbates.github.io/demonstration
